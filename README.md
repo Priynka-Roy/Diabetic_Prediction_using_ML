@@ -1,5 +1,6 @@
 # Diabetic_Prediction_using_ML
-# Diabetes Prediction Model
+
+![output](output.png)
 
 ## Overview
 This project aims to build a **Diabetes Prediction Model** using **Logistic Regression** and **Random Forest** algorithms. The dataset used for this analysis is the **Diabetes Prediction Dataset**, and the implementation is done in **R**. The objective is to classify individuals as diabetic or non-diabetic based on various medical attributes.
