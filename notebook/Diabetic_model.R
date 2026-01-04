@@ -8,7 +8,7 @@ library(pROC)
 
 
 # Load dataset
-df <- read.csv("C:\\Users\\priyn\\OneDrive\\Desktop\\Gproject\\1 diabetes.csv")
+df <- read.csv("C://Users//priyn//OneDrive//Desktop//GithubProject//Diabetic_Prediction_using_ML//data//1 diabetes.csv")
 
 # View first few rows
 head(df)
